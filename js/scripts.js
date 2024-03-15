@@ -3,4 +3,4 @@ $( document ).ready( function () {
   console.log("Hello world!");
 
 });
-// practice
+// calls the document
